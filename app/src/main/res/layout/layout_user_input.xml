@@ -13,7 +13,8 @@
         android:layout_height="wrap_content"
         android:text="Third cousin uploader"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:textColor="@android:color/white" />
+        android:textColor="@android:color/white"
+        android:textSize="18sp" />
 
     <EditText
         android:id="@+id/userInputDialog"
